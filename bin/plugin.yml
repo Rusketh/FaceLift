@@ -1,0 +1,5 @@
+name: ComparableHopper
+main: rusketh.com.github.ComparableHopper
+version: 0.0.1
+author: Rusketh
+load: STARTUP

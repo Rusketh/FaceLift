@@ -1,5 +1,5 @@
-name: ComparableHopper
-main: rusketh.com.github.ComparableHopper
+name: FaceLift
+main: rusketh.com.github.FaceLift
 version: 0.0.1
 author: Rusketh
 load: STARTUP
